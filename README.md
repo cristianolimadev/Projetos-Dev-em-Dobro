@@ -1,2 +1,2 @@
-# Projetos Dev em Dobro
- Repositóro de Projetos Dev em dobro
+# Dev em Dobro
+ Repositório de Projetos de Frontend desenvolvidos nas lives do Dev em Dobro.
